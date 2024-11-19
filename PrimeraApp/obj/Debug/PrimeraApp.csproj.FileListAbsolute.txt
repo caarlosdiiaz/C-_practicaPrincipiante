@@ -1,0 +1,7 @@
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\bin\Debug\PrimeraApp.exe.config
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\bin\Debug\PrimeraApp.exe
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\bin\Debug\PrimeraApp.pdb
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.csproj.AssemblyReference.cache
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.exe
+C:\Users\diazr\Desktop\mis codigos\C#\Aprendiendo\PrimeraApp\PrimeraApp\obj\Debug\PrimeraApp.pdb
